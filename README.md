@@ -1,6 +1,6 @@
-# Fullstack Taskify: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+# Fullstack Taskify: Next.js 14, Server Actions, React, Prisma, Tailwind, MySQL
 
-This is a repository for Fullstack Taskify: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+This is a repository for Fullstack Taskify: Next.js 14, Server Actions, React, Prisma, Tailwind, MySQL
 
 Key Features:
 - Auth by Clerk
